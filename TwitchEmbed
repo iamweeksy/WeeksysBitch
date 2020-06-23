@@ -1,0 +1,8 @@
+<iframe
+    src="https://player.twitch.tv/?iamweeksy&parent=streamernews.example.com"
+    height="<height>"
+    width="<width>"
+    frameborder="<frameborder>"
+    scrolling="<scrolling>"
+    allowfullscreen="<allowfullscreen>">
+</iframe>
