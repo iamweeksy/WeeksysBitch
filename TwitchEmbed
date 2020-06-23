@@ -1,3 +1,4 @@
+<html5>
 <iframe
     src="https://player.twitch.tv/?iamweeksy&parent=streamernews.example.com"
     height="<height>"
@@ -6,3 +7,4 @@
     scrolling="<scrolling>"
     allowfullscreen="<allowfullscreen>">
 </iframe>
+<html5>
